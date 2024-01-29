@@ -448,7 +448,7 @@ div.layerProgress {
     margin: 15px 0 0;
 }
 
-#footer {
+/* #footer {
     position: relative;
 }
 
@@ -462,7 +462,7 @@ div.layerProgress {
     content: "";
     display: block;
     clear: both;
-}
+} */
 
 #boardArea {
     overflow: hidden;
@@ -8205,7 +8205,7 @@ h3 {
     max-width: 180px;
 }
 
-#footer {
+/* #footer {
     background: #DBDCE1;
     margin-top: 100px;
     font-family: 'Noto Sans KR';
@@ -8378,4 +8378,4 @@ h3 {
 
 #footer .scroll_btn a:hover i {
     color: #999;
-}
+} */
