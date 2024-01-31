@@ -1,4 +1,4 @@
-html body {}
+/* html body {} */
 
 body #category {
     border-bottom: 0;
@@ -1444,9 +1444,9 @@ code {
     background: #fff;
 } */
 
-body {
+/* body {
     min-width: 1480px;
-}
+} */
 
 body#popup {
     min-width: 0;
@@ -1581,7 +1581,7 @@ div.layerProgress {
     background-color: #999;
 }
 
-#skipNavigation {
+/* #skipNavigation {
     position: absolute;
     top: 0;
     left: 0;
@@ -1620,7 +1620,7 @@ div.layerProgress {
     background: #c4122f;
     color: #fff;
     z-index: 100;
-}
+} */
 
 .displaynone {
     display: none;
@@ -6183,15 +6183,15 @@ body .xans-product-searchdata .searchResult,
     animation-delay: 2.0s;
 }
 
-body {
+/* body {
     min-width: 100%;
-}
+} */
 
 #wrap {
     width: 100%;
 }
 
-#header {
+/* #header {
     position: relative;
     width: 100%;
     z-index: 71;
@@ -6203,7 +6203,7 @@ body {
     padding: 0 30px;
     margin: 0 auto;
     box-sizing: border-box;
-}
+} */
 
 #container {
     position: relative;
