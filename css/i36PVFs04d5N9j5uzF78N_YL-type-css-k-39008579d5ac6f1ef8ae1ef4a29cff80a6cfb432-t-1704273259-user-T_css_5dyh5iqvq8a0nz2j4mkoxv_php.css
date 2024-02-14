@@ -6599,6 +6599,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 .grid_2_bnn .centered h2 {
     font-family: pertili;
     font-weight: 500;
+    letter-spacing: 2px;
 }
 
 .grid_3_bnn {
@@ -6683,8 +6684,8 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 #text_grid2 .title h2 {
     font-weight: normal;
     font-family: TenorSans-Regular;
-    font-size: 20px;
-    /* letter-spacing: 2px; */
+    font-size: 25px;
+    letter-spacing: 2px;
 }
 
 #text_grid2 .subject {
@@ -6702,7 +6703,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 
 #text_grid2 .subject .kor_subject {
     font-weight: bold;
-    font-size: 13px;
+    font-size: 17px;
     padding-bottom: 5%;
 }
 
@@ -6717,6 +6718,8 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 #text_grid2 .main_btn {
     color: #8f2231;
     border-color: #8f2231;
+    font-weight: bold;
+    ;
 }
 
 #text_section {

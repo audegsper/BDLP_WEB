@@ -12,7 +12,7 @@ function initSwiper(bool, between, view) {
   return prdSwiper = new Swiper('.prd-slide1 .swiper-container', {
     spaceBetween: between,		
     slidesPerView: view,
-    loop: bool,
+    // loop: bool,
 	centeredSlides: bool,
 	speed: 1500,					
 	grabCursor: true,
