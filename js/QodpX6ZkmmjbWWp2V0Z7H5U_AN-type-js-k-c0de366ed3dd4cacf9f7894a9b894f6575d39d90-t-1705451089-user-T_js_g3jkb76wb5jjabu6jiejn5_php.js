@@ -16,10 +16,10 @@ function initSwiper(bool, between, view) {
 	centeredSlides: bool,
 	speed: 1500,					
 	grabCursor: true,
-    autoplay: {
-		delay: 3500,
-		disableOnInteraction: false,
-	  },
+    // autoplay: {
+	// 	delay: 3500,
+	// 	disableOnInteraction: false,
+	//   },
 	navigation: {	
 		nextEl: '.prd-slide1 .swiper-button-next',
 		prevEl: '.prd-slide1 .swiper-button-prev',
@@ -48,7 +48,8 @@ function mainSizeListener() {
 	if ( $(window).outerWidth() <= 768) {
 		initSwiper(false, 10, 2.3);
 	} else {
-		initSwiper(true, 5, 'auto');
+		// initSwiper(true, 5, 'auto');
+		initSwiper(true, 1000, 'auto');
 	}
 }
 
