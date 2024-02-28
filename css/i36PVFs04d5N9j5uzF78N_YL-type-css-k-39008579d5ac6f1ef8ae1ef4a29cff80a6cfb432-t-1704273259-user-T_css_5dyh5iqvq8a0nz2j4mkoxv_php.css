@@ -6699,6 +6699,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
     font-family: "pertili";
     width: max-content;
     padding-bottom: 15%;
+    margin: auto;
 }
 
 #text_grid2 .subject .kor_subject {

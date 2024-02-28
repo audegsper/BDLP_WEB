@@ -1862,7 +1862,7 @@ body.on {
     /* width: calc(100% - 400px); */
     height: auto;
     margin: 0 auto;
-    min-width: 1400px;
+    /* min-width: 1400px; */
     display: flex;
     justify-content: space-between;
     align-items: center;
