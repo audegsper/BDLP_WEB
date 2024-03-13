@@ -5,8 +5,8 @@ class HeaderComponent extends HTMLElement {
       <div class="inner">
         <div class="topArea">
           <h1 class="xans-element- xans-layout xans-layout-logotop">
-            <a href="/BLDP_WEB/index.html"
-              ><img src="/BLDP_WEB/images2/BDLP_logo/BDLP_logo_01.png"
+            <a href="/BDLP_WEB/index.html"
+              ><img src="/BDLP_WEB/images2/BDLP_logo/BDLP_logo_01.png"
             /></a>
           </h1>
         </div>
@@ -15,7 +15,7 @@ class HeaderComponent extends HTMLElement {
           class="xans-element- xans-layout xans-layout-category"
         >
           <div>
-            <a href="/BLDP_WEB/brand_story/brand_story.html"
+            <a href="/BDLP_WEB/brand_story/brand_story.html"
               ><span class="title">Story</span></a
             >
           </div>
@@ -24,12 +24,12 @@ class HeaderComponent extends HTMLElement {
             <div class="depth_1">
               <ul>
                 <li>
-                  <a href="/BLDP_WEB/product/BDLP_original.html"
+                  <a href="/BDLP_WEB/product/BDLP_original.html"
                     >BDLP 엑소좀</a
                   >
                 </li>
                 <li>
-                  <a href="/BLDP_WEB/product/BDLP_pink.html">BDLP 핑크</a>
+                  <a href="/BDLP_WEB/product/BDLP_pink.html">BDLP 핑크</a>
                 </li>
               </ul>
             </div>
@@ -189,7 +189,7 @@ class HeaderComponent extends HTMLElement {
       <div class="wrapper">
         <div class="xans-element- xans-layout xans-layout-category category">
           <div>
-            <a href="/BLDP_WEB/brand_story/brand_story.html"
+            <a href="/BDLP_WEB/brand_story/brand_story.html"
               ><span class="title">Story</span></a
             >
           </div>
@@ -198,12 +198,12 @@ class HeaderComponent extends HTMLElement {
             <div class="depth_1">
               <ul>
                 <li>
-                  <a href="/BLDP_WEB/product/BDLP_original.html"
+                  <a href="/BDLP_WEB/product/BDLP_original.html"
                     >BDLP 엑소좀</a
                   >
                 </li>
                 <li>
-                  <a href="/BLDP_WEB/product/BDLP_pink.html">BDLP 핑크</a>
+                  <a href="/BDLP_WEB/product/BDLP_pink.html">BDLP 핑크</a>
                 </li>
               </ul>
             </div>
@@ -278,7 +278,7 @@ class HeaderComponent extends HTMLElement {
           <div class="address">
             <img
               style="height: 50px"
-              src="/BLDP_WEB/images2/BDLP_logo/BDLP_logo_white.png"
+              src="/BDLP_WEB/images2/BDLP_logo/BDLP_logo_white.png"
             />
             <br /><br /><br />
             <span class="tit">
@@ -317,7 +317,7 @@ class HeaderComponent extends HTMLElement {
         <a href="#none" art="top"><i class="xi-angle-up"></i></a>
       </div>
       <div class="footer-bottom-logo">
-        <img src="/BLDP_WEB/images2/BDLP_logo/BDLP_circle_logo_white.png" />
+        <img src="/BDLP_WEB/images2/BDLP_logo/BDLP_circle_logo_white.png" />
       </div>
     </div>
       `;
